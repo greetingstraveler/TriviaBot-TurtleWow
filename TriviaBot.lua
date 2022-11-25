@@ -1,8 +1,8 @@
 --[[
 --
--- TriviaBot Version 1.2
--- Written by Guri of Trollbane
--- Based on work created by Psy on Frostwolf
+-- TriviaBot-TurtleWow Version 1.0
+-- Maintained by LizzardBerry
+-- Based on work created by Roadblock of Nostalrius, by Guri of Trollbane and by Psy on Frostwolf
 --
 --]]
 
@@ -19,7 +19,7 @@ TRIVIA_LOADED = false;
 TRIVIA_QUESTION_TIMEOUT = 45;  --45 Seconds to Answer Correctly
 TRIVIA_QUESTION_TIMEWARN = 25;  --20 Second warning.
 
-TRIVIA_VERSION = "1.2" -- Version number
+TRIVIA_VERSION = "1.0" -- Version number
 
 NEW_TRIVIA_CHANNEL = nil; -- For changing channels
 

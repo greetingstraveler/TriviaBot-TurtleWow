@@ -1,9 +1,9 @@
 ## Interface: 11200
-## Title: TriviaBot
-## Version: 1.22
-## Notes: A fun in-game trivia bot.
-## Author: Guri
-## X-Credits: Roadblock (Nostalrius)
+## Title: TriviaBot-TurtleWoW
+## Version: 1.0
+## Notes: A fun in-game trivia bot with TurtleWoW questions.
+## Author: LizardBerry
+## X-Credits: Roadblock (Nostalrius), Guri (Trollbane), Psy (Frostwolf)
 ## SavedVariables:TRIVIA_QLIST, TRIVIA_CHANNEL
 
 TriviaBot.lua
