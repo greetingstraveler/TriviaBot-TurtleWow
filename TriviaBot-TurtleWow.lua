@@ -1,6 +1,6 @@
 --[[
 --
--- TriviaBot-TurtleWow Version 1.0 
+-- TriviaBot-TurtleWow Version 1.0
 -- Maintained by LizzardBerry
 -- Based on work created by Roadblock of Nostalrius, by Guri of Trollbane and by Psy on Frostwolf
 --
