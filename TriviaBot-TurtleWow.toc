@@ -6,5 +6,5 @@
 ## X-Credits: Roadblock (Nostalrius), Guri (Trollbane), Psy (Frostwolf)
 ## SavedVariables:TRIVIA_QLIST, TRIVIA_CHANNEL
 
-TriviaBot.lua
-TriviaBot.xml
+TriviaBot-TurtleWoW.lua
+TriviaBot-TurtleWoW.xml
