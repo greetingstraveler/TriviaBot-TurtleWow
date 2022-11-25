@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: TriviaBot-TurtleWoW
+## Title: TriviaBot-TurtleWoW 
 ## Version: 1.0
 ## Notes: A fun in-game trivia bot with TurtleWoW questions.
 ## Author: LizardBerry
