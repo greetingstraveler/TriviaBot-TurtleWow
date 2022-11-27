@@ -604,7 +604,7 @@ function Trivia_SendMessage(msg)
 	-- Send a message to the trivia channel
 	
 	-- Append the trivia tag to each message 
-	msg = "[Trivia]: " .. msg;
+	msg = "[TurtleTrivia]: " .. msg;
 	
 	-- Send the message to the right channel.
 	if (TRIVIA_CHANNEL == "GUILD") then

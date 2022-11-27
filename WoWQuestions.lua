@@ -3761,8 +3761,45 @@ WOW_TRIVIA_ANSWERS1[1007] = "Illidan Stormrage";
 WOW_TRIVIA_QUESTIONS[1008] = "Naxxramas will become a 25man in the expansion. (True/False)?";
 WOW_TRIVIA_ANSWERS1[1008] = "true";
 
-WOW_TRIVIA_QUESTIONS[1009] = "The nerubian spiderlords are followers of the __________ in Northrend."
+WOW_TRIVIA_QUESTIONS[1009] = "The nerubian spiderlords are followers of the __________ in Northrend.";
 WOW_TRIVIA_ANSWERS1[1009] = "Old Gods";
 
 WOW_TRIVIA_QUESTIONS[1010] = "Quote: Shhh... it will all be over soon.";
 WOW_TRIVIA_ANSWERS1[1010] = "Anub'Rekhan";
+
+-- TurtleWow questions
+
+WOW_TRIVIA_QUESTIONS[1011] = "When (month and year) did TurtleWow officialy launch?";
+WOW_TRIVIA_ANSWERS1[1011] = "October 2018";
+
+WOW_TRIVIA_QUESTIONS[1012] = "At what skill level is it possible to make tents?";
+WOW_TRIVIA_ANSWERS1[1012] = "75";
+
+WOW_TRIVIA_QUESTIONS[1013] = "By purchasing 'Boats for Dummies' you are able to craft a?";
+WOW_TRIVIA_ANSWERS1[1013] = "Fishing Boat";
+
+WOW_TRIVIA_QUESTIONS[1014] = "What is the name of N'zoths turtle servant?";
+WOW_TRIVIA_ANSWERS1[1014] = "Turtlhu";
+
+WOW_TRIVIA_QUESTIONS[1015] = "What is the name of a giant wolf who terrorized the Winter Veil Vale in Dun Morogh?";
+WOW_TRIVIA_ANSWERS1[1015] = "Snowball";
+
+WOW_TRIVIA_QUESTIONS[1016] = "Name one of the TurtleWow's unique playable races";
+WOW_TRIVIA_ANSWERS1[1016] = "High Elves";
+WOW_TRIVIA_ANSWERS2[1016] = "Goblins";
+
+WOW_TRIVIA_QUESTIONS[1017] = "Name a Mage ability that is unique to TurtleWow";
+WOW_TRIVIA_ANSWERS1[1017] = "Khadgar's Unlocking";
+WOW_TRIVIA_ANSWERS2[1017] = "Khadgars Unlocking";
+
+WOW_TRIVIA_QUESTIONS[1018] = "Name a Rogue ability that is unique to TurtleWow";
+WOW_TRIVIA_ANSWERS1[1018] = "Disguise";
+
+WOW_TRIVIA_QUESTIONS[1019] = "Name a Paladin ability that is unique to TurtleWow";
+WOW_TRIVIA_ANSWERS1[1019] = "Holy Strike";
+
+WOW_TRIVIA_QUESTIONS[1020] = "What is the name of the new town in Swamp of Sorrows?";
+WOW_TRIVIA_ANSWERS1[1020] = "Sorrowguard Keep";
+
+WOW_TRIVIA_QUESTIONS[1021] = "What is the name of N'zoths turtle servant?";
+WOW_TRIVIA_ANSWERS1[1021] = "Turtlhu";
