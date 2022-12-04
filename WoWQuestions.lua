@@ -3803,3 +3803,22 @@ WOW_TRIVIA_ANSWERS1[1020] = "Sorrowguard Keep";
 
 WOW_TRIVIA_QUESTIONS[1021] = "What is the name of N'zoths turtle servant?";
 WOW_TRIVIA_ANSWERS1[1021] = "Turtlhu";
+
+WOW_TRIVIA_QUESTIONS[1022] = "Name the TurtleWow exclusive Tirisfal Uplands town";
+WOW_TRIVIA_ANSWERS1[1022] = "Glenshire";
+
+WOW_TRIVIA_QUESTIONS[1023] = "Where in Durotar, as a TurtleWow exclusive, did the Labor Union goblins settle?";
+WOW_TRIVIA_ANSWERS1[1023] = "Sparkwater port";
+
+WOW_TRIVIA_QUESTIONS[1024] = "Name the TurtleWow world bus that resides in southeren Tanaris";
+WOW_TRIVIA_ANSWERS1[1024] = "Ostarius of Uldum";
+WOW_TRIVIA_ANSWERS2[1024] = "Ostarius";
+
+WOW_TRIVIA_QUESTIONS[1025] = "Name a feature unique to TurtleWow that allows crossfaction play";
+WOW_TRIVIA_ANSWERS[1025] = "Diplomacy"
+
+WOW_TRIVIA_QUESTIONS[1026] = "What is the full name of TurtleWows exclusive NPC that sells Survival outlines?"
+WOW_TRIVIA_ANSWERS1[1026] = "Rufus Hardwick"
+
+WOW_TRIVIA_QUESTIONS[1027] = "What TurtleWow exclusive item gets you +50 fishing skill?"
+WOW_TRIVIA_ANSWERS1[1027] = "Fishing Boat"
