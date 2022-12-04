@@ -2,7 +2,7 @@ TriviaBot-TurtleWoW v1.0
 
 TriviaBot-TurtleWoW is a fun trivia bot, which can be used as a way to distract yourself and others when hanging under tents, sitting around campfires, grinding, during raids, or when idling in one of the major cities.
 
-Plot twist: We're adding TurtleWoW questions! Currently at 11 questions!
+Plot twist: We're adding TurtleWoW questions! Currently at 17 questions!
 
 The author does not take any responsibility for wipes and equipment damage caused as a result of using this mod Kappa
 
@@ -24,7 +24,7 @@ Included Questions:
 Normal (2632 questions)
 WoW (1010 questions)
 Geography (135 questions)
-Turtle (11 questions)
+Turtle (17 questions)
 
 Submit a TurtleWoW question:
 <TurtleWoW Forum link goes here>
