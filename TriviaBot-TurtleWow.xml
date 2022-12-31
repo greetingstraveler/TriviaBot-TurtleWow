@@ -4,6 +4,7 @@
 	<Script file="TriviaBot-TurtleWow.lua"/>
 	<Script file="NormalQuestions.lua"/>
 	<Script file="WoWQuestions.lua"/>
+	<Script file="TurtleQuestions.lua"/>
 	<Script file="GeographyQuestions.lua"/>
 	<Frame name="Trivia" parent="UIParent" hidden="false">
 		<Scripts>
